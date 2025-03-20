@@ -61,5 +61,11 @@ public class TravelListController {
 		mav.setViewName(getPage);
 		
 		return mav;
+		//수정완
+		//수정완
+		//수정완
+		//수정완
+		//수정완
+		//수정완
 	} 
 }

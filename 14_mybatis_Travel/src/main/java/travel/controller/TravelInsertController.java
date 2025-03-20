@@ -23,6 +23,9 @@ public class TravelInsertController {
 	@Autowired
 	TravelDao travelDao;
 	
+	//kim 수정
+	//kim 한줄 추가
+	//kim 한줄 추가
 	@RequestMapping(value=command, method = RequestMethod.GET)
 	public String doAction(){
 		

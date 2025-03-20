@@ -50,6 +50,7 @@ public class TravelUpdateController {
 			int cnt = travelDao.updateTravel(travel);
 			mav.setViewName(gotoPage);
 			return mav;
+			//master¼öÁ¤ÇÔ
 		}
 
 }
